@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑 About Me:
 🔭 I’m currently working on full-stack web applications using Django and exploring real-world problem solving through projects.<br>👯 I’m looking to collaborate on web development projects and open-source learning projects.<br>💬 Ask me about Web development related stuff<br>📫 How to reach me: LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m a 2nd DAN black belt in Shito Ryu Karate and a casual game developer who enjoys building things from scratch.<br>
 
 
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=vishh-prompt45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vishh-prompt45&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishh-prompt45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
