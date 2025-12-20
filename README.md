@@ -1,5 +1,5 @@
 # 🧑 About Me:
-🔭 I’m currently working on full-stack web applications using Django and exploring real-world problem solving through projects.<br>👯 I’m looking to collaborate on web development projects and open-source learning projects.<br>💬 Ask me about Web development related stuff<br>📫 How to reach me: LinkedIn<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m a 2nd DAN black belt in Shito Ryu Karate and a casual game developer who enjoys building things from scratch.<br>
+🔭 I’m currently working on full-stack web applications using Django and exploring real-world problem solving through projects.<br>👯 I’m looking to collaborate on web development projects and open-source learning projects.<br>💬 Ask me about Web development related stuff<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m a 2nd DAN black belt in Shito Ryu Karate and a casual game developer who enjoys building things from scratch.<br>
 
 
 ## 🌐 Socials:
